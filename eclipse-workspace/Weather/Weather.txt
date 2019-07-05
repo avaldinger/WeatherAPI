@@ -1,0 +1,47 @@
+
+Today Wed Feb 06 17:00:00 CET 2019 in Barcelona:
+Temperature: 15.01 C
+ Humidity: 76%
+Today Wed Feb 06 17:00:00 CET 2019 in Barcelona:
+Temperature: 15.01 C
+ Humidity: 76%; Today Wed Feb 06 17:00:00 CET 2019 in Barcelona:
+Temperature: 15.01 C
+ Humidity: 76%; Today Wed Feb 06 22:00:00 CET 2019 in Barcelona:
+Temperature: 8.99 C
+ Humidity: 93%; Today 22 in Barcelona:
+Temperature: 8.99 C
+ Humidity: 93%; Today 6 in Barcelona:
+Temperature: 8.99 C
+ Humidity: 93%; Today 22 in Barcelona:
+Temperature: 8.99 C
+ Humidity: 93%; Today 3220 in Barcelona:
+Temperature: 8.99 C
+ Humidity: 93%; Today 3 22:00 in Barcelona:
+Temperature: 8.99 C
+ Humidity: 93%; Today 22:00 in Barcelona:
+Temperature: 8.99 C
+ Humidity: 93%; Today 22:3030 in Barcelona:
+Temperature: 8.48 C
+ Humidity: 87%; Today 22:3030 in Barcelona:
+Temperature: 8.48 C
+ Humidity: 87%; Today 22:3030 in Barcelona:
+Temperature: 8.48 C
+ Humidity: 87%; Today 22:3030 in Barcelona:
+Temperature: 8.48 C
+ Humidity: 87%; Today 22:3030 in Barcelona:
+Temperature: 8.48 C
+ Humidity: 87%; Today 23:0 in Barcelona:
+Temperature: 7.99 C
+ Humidity: 93%; Today 23:00 in Barcelona:
+Temperature: 7.99 C
+ Humidity: 93%; Today at 23:00h in Barcelona:
+Temperature: 7.99 C
+ Humidity: 93%; Today at 23:3030h in Barcelona:
+Temperature: 7.99 C
+ Humidity: 87%; Today at 23:3030h in Barcelona:
+Temperature: 7.99 C
+ Humidity: 87%; Today at 23:3030h in Barcelona:
+Temperature: 7.99 C
+ Humidity: 87%; Today at 23:3030h in Barcelona:
+Temperature: 7.99 C
+ Humidity: 87%
